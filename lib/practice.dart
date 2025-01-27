@@ -26,3 +26,10 @@ void main(){
    print("WELCOME $name MOBILE.no :$number.. $percentage... $result.....$x ...$a.... $lightisOn ");
 
 }
+
+class firstClass {
+
+  void myFunction(){
+
+  }
+}
