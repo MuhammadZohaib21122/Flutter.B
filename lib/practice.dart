@@ -25,9 +25,9 @@ void main(){
 
    print("WELCOME $name MOBILE.no :$number.. $percentage... $result.....$x ...$a.... $lightisOn ");
 
-  var fC = firstClass();
+  var fC = firstClass();  //this is class caller
 
-  fC. iformationCollector();
+  fC. iformationCollector(); // caliing function through class
 
 }
 
